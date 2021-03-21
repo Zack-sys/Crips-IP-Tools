@@ -1,17 +1,17 @@
-# Crips-IP-Tools
+### 𝐂𝐫𝐢𝐩𝐬-𝐈𝐏-𝐓𝐨𝐨𝐥𝐬
 
-This Tools is a collection of online IP Tools that can be used to quickly get information about IP Address's, Web Pages and DNS records.  
+> This Tools is a collection of online IP Tools that can be used to quickly get information about IP Address's, Web Pages and DNS records.  
 
-Menu :  
-Whois lookup 
-Traceroute 
-DNS Lookup 
-Reverse DNS Lookup 
-GeoIP Lookup 
-Port Scan 
-Reverse IP Lookup  
+> Menu :  
+> [+] Whois lookup 
+> [+] Traceroute 
+> [+] DNS Lookup 
+> [+] Reverse DNS Lookup 
+> [+] GeoIP Lookup 
+> [+] Port Scan 
+> [+] Reverse IP Lookup  
 
-Installation :  
+### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 :  
 $ apt update &amp;&amp; apt upgrade  
 $ apt install git   
 $ apt install python2  
@@ -22,4 +22,4 @@ $ chmod +x *
 $ ./install.sh  Run :  
 $ python2 crips.py  
 
-Now select your option, this tool can guide you easily..
+> Now select your option, this tool can guide you easily..
