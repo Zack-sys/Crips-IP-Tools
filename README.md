@@ -11,15 +11,33 @@
 > [+] Port Scan 
 > [+] Reverse IP Lookup  
 
-### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 :  
-$ apt update &amp;&amp; apt upgrade  
-$ apt install git   
+### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 :
+```
+$ apt update && apt upgrade  
+```
+```
+$ apt install git  
+```
+```
 $ apt install python2  
+```
+```
 $ apt install python  
+```
+```
 $ git clone https://github.com/Manisso/Crips  
+```
+```
 $ cd Crips  
+```
 $ chmod +x *  
-$ ./install.sh  Run :  
-$ python2 crips.py  
+```
+```
+$ ./install.sh  
+```
 
+### 𝚁𝚞𝚗 :  
+```
+$ python2 crips.py  
+```
 > Now select your option, this tool can guide you easily..
