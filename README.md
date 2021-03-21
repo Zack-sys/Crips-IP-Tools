@@ -30,6 +30,7 @@ $ git clone https://github.com/Manisso/Crips
 ```
 $ cd Crips  
 ```
+```
 $ chmod +x *  
 ```
 ```
